@@ -1,0 +1,6 @@
+OrderID,UserID,ProductID,Quantity,TotalAmount,OrderDate,Status
+11,12,11,1,9500.00,2023-05-05,Shipped
+12,13,12,1,350.00,2023-05-09,Delivered
+13,14,13,2,140.00,2023-05-15,Delivered
+14,15,14,1,600.00,2023-05-19,Pending
+15,16,15,1,800.00,2023-05-23,Shipped

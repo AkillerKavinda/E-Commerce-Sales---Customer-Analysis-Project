@@ -1,0 +1,5 @@
+status,percentage_of_orders
+Delivered,60.00
+Shipped,20.00
+Pending,10.00
+Cancelled,10.00

@@ -1,0 +1,21 @@
+productId,productName,category,avg_rating
+1,"iPhone 14 Pro",Electronics,5.00
+3,"Nike Air Max Shoes",Fashion,5.00
+5,"Sony WH-1000XM4 Headphones",Electronics,5.00
+7,"Canon EOS 90D Camera",Electronics,5.00
+10,"Leather Office Chair","Home & Furniture",5.00
+11,"Rolex Submariner Watch",Fashion,5.00
+13,"Kitchen Blender","Home & Kitchen",5.00
+15,"PlayStation 5 Console",Gaming,5.00
+16,"Apple MacBook Air M2",Computers,5.00
+17,"Gucci Handbag",Fashion,5.00
+20,"Mountain Bike",Sports,5.00
+2,"Samsung Galaxy S23",Electronics,4.00
+6,"Dell XPS 13 Laptop",Computers,4.00
+8,"Adidas T-Shirt",Fashion,4.00
+12,"HP LaserJet Printer",Computers,4.00
+14,"Oppo Reno 8",Electronics,4.00
+18,"Gaming Keyboard RGB",Computers,4.00
+4,"Wooden Dining Table","Home & Furniture",3.00
+19,"Philips Air Fryer","Home & Kitchen",3.00
+9,"Samsung 55" Smart TV",Electronics,2.00

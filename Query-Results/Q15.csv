@@ -1,0 +1,21 @@
+userId,firstName,LastName,productName,status
+1,Ali,Khan,"iPhone 14 Pro",Delivered
+2,Sara,Ahmed,"Samsung Galaxy S23",Shipped
+3,John,Smith,"Nike Air Max Shoes",Delivered
+4,Maria,Lopez,"Wooden Dining Table",Pending
+5,David,Brown,"Sony WH-1000XM4 Headphones",Delivered
+6,Fatima,Sheikh,"Dell XPS 13 Laptop",Shipped
+7,Michael,Johnson,"Canon EOS 90D Camera",Delivered
+8,Ayesha,Malik,"Adidas T-Shirt",Delivered
+9,Robert,Williams,"Samsung 55" Smart TV",Cancelled
+10,Emily,Taylor,"Leather Office Chair",Delivered
+11,Usman,Raza,"Rolex Submariner Watch",Shipped
+12,Sophia,Martinez,"HP LaserJet Printer",Delivered
+13,Amir,Hussain,"Kitchen Blender",Delivered
+14,Olivia,Clark,"Oppo Reno 8",Pending
+15,Hassan,Ali,"PlayStation 5 Console",Shipped
+16,William,Jones,"Apple MacBook Air M2",Delivered
+17,Noor,Fatima,"Gucci Handbag",Delivered
+18,James,Davis,"Gaming Keyboard RGB",Delivered
+19,Khadija,Yousaf,"Philips Air Fryer",Cancelled
+20,Daniel,Miller,"Mountain Bike",Delivered
