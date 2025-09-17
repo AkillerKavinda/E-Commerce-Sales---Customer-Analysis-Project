@@ -3,9 +3,6 @@
 ## Project Overview
 Analyzing sales and customer behavior on an e-commerce platform using MySQL by answering 18 business questions. I explore product performance, revenue trends, customer purchasing patterns, payment methods, and feedback ratings to gain insights.
 
-## Objective
-The aim of this project is to answer 18 business questions from an e-commerce dataset using SQL.
-
 ## Database Schema
 
 ### Users
