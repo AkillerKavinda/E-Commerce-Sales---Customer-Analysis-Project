@@ -4,11 +4,7 @@
 Analyzing sales and customer behavior on an e-commerce platform using MySQL by answering 18 business questions. I explore product performance, revenue trends, customer purchasing patterns, payment methods, and feedback ratings to gain insights.
 
 ## Objective
-The aim is to derive actionable insights from the dataset to:  
-- Identify top-performing products and categories.  
-- Understand customer purchasing behavior and spending.  
-- Analyze order trends and payment methods.  
-- Evaluate customer feedback to improve products and services.
+The aim of this project is to answer 18 business questions from an e-commerce dataset using SQL.
 
 ## Database Schema
 
