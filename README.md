@@ -1,5 +1,7 @@
 # E-Commerce Sales & Customer Analysis Project
 
+> **Note:** This project was built while following a YouTube tutorial to practice and learn MySQL. The goal was to understand the concepts and apply them. Any modifications or experiments I made are my own.
+
 ## Project Overview
 Analyzing sales and customer behavior on an e-commerce platform using MySQL by answering 18 business questions. I explore product performance, revenue trends, customer purchasing patterns, payment methods, and feedback ratings to gain insights.
 
